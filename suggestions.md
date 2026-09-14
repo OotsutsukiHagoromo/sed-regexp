@@ -21,6 +21,8 @@ gsed: file yo.sed line 58472: invalid reference \2 on 's' command's RHS
 	 то, что было уже заменено, внутри аргументов команд `\href`
    и `\url`.
 
+3. Багрепорт: спасибо, пофиксил.
+
 — Rikudo
 
 <!--
