@@ -25,3 +25,5 @@ s/^[ \t]*\*([ \t]\*){2}[ \t]*$/\\textstars/g
 
 # В Vim:
 # %s/\v[[:upper:]]{4,}/\L\u&/gc
+
+# vim:tw=0
